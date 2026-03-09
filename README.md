@@ -78,8 +78,8 @@ npm install
 # 啟動開發模式（前端 + 後端同時跑）
 npm run dev
 
-# 前端：http://localhost:5173
-# 後端：http://localhost:3001
+# 前端：http://localhost
+# 後端：http://localhost
 ```
 
 ## 🏗 建置 Production
