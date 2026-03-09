@@ -1,0 +1,6 @@
+node_modules/
+dist/
+data/sp-*.json
+.env
+*.log
+.DS_Store
